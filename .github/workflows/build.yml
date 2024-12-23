@@ -131,7 +131,6 @@ jobs:
           ${BODY}
 
           *▼ Download Links:*
-          APKs:
           ${APKS}
           "
           echo "'$MSG'"

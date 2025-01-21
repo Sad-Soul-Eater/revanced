@@ -1,5 +1,4 @@
 YouTube: 19.47.53  
-Tiktok: 36.5.4  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube
   

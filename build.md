@@ -1,3 +1,4 @@
+Spotify: 9.0.34.105  
 YouTube: 20.07.39  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube

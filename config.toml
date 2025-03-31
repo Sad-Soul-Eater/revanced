@@ -25,3 +25,4 @@ riplib = false
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+riplib = false

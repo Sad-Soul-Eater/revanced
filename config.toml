@@ -24,5 +24,6 @@ included-patches = "'SIM spoof'"
 riplib = false
 
 [Spotify]
+enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 riplib = false

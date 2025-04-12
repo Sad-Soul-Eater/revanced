@@ -1,5 +1,4 @@
 YouTube: 20.07.39  
-Music: 8.05.51  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube
   

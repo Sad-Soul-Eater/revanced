@@ -1,7 +1,7 @@
-YouTube: 20.12.46  
+YouTube: 20.13.41  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube
   
 CLI: ReVanced/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.28.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.28.0)  
+Patches: ReVanced/patches-5.29.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.29.0)  

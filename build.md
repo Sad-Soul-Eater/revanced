@@ -1,5 +1,6 @@
-YouTube: 20.13.41  
+Spotify: 9.0.76.1115  
 Music: 8.25.54  
+YouTube: 20.13.41  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube
   
